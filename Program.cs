@@ -3,7 +3,7 @@
 //которая покажет количество чётных чисел в массиве.
 //[345, 897, 568, 234] -> 2
 
-int[] array = new int [4];
+/*int[] array = new int [4];
 int count = 0;
 
 for (int i = 0; i < array.Length; i++)
@@ -15,7 +15,7 @@ for (int i = 0; i < array.Length; i++)
     }
 }
 Console.WriteLine(String.Join(", ", array));
-Console.WriteLine($"Количество чётных чисел = {count}");
+Console.WriteLine($"Количество чётных чисел = {count}");*/
 
 
 //Задача 36: Задайте одномерный массив, заполненный 
